@@ -1,0 +1,23 @@
+* {
+  font-family: Verdana, "DejaVu Sans", "sans-serif";
+}
+.odd-numbered {
+  background-color: #ffc0cb;
+}
+
+.large {
+  font-size: 24px;
+}
+
+.even-numbered {
+  background-color: #00ff00;
+}
+
+#number-2 {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.bold {
+  font-weight: 700;
+}
